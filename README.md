@@ -1,2 +1,2 @@
-# JSAI
-Machine Learning in JS
+# JTSAM
+Machine Learning and Advance Math in JS/TS
