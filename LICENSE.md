@@ -58,7 +58,7 @@ By using the Project or its package, you acknowledge that you have read, underst
 
 ## Contact Information:
 
-Date: 2023-08-09 9:63 UTC+2
+Date: 2023-08-09 9:63 UTC+2 CET Central Europe Time 
 
 Developers and Authors: D** N**, Sch****; Sinus, Aeth; DevKiD
 
