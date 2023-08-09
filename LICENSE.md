@@ -1,5 +1,5 @@
 # LICENSE I/O System Using
-> EULA End User License Agreement
+> EULA End User License Agreement.
 > Write by D** N**, Sch****
 
 Those who have a special license have different rules, laws and conditions that they must comply with.
