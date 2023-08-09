@@ -1,6 +1,8 @@
 # LICENSE I/O System Using
 > EULA End User License Agreement
 
+> Write by D** N**, Sch****
+
 Those who have a special license have different rules, laws and conditions that they must comply with.
 
 You automatically agree to the LICENSE if you use the project or the package in your project. You may not resell the Project or its code as yourself. The unused project may also be used commercially. If the project is dominant, the package or project is used. You cannot use the project commercially.
