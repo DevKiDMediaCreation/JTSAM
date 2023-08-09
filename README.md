@@ -1,5 +1,6 @@
 # JTSAM
-> JavaTypeScript Advance Math
+> **Acronym:** **J** ava **T** ype **S** cript **A** dvance **M** ath
+
 Machine Learning and Advance Math in JS/TS
 
 # For Community: How to make a Pull Request
