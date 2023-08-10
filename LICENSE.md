@@ -20,7 +20,7 @@ Income distribution in our team: 25% is donated to foundations. 50% in technolog
 
 0. Monthly Report:
 
-BIC: 29MA4D2DE PAN: 2394 9274 1038 3453 Name: Sinus Aeth IBAN: DE
+BIC: XXXXXXXXXX PAN: XXXX XXXX XXXX XXXX Name: XXXXX XXXX IBAN: XXXXXXXXXXXXXXXXXXXX
 
 1. Usage Rights:
 
